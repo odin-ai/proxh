@@ -2,7 +2,8 @@
 
 echo "this is db";
 
-int dbC = 99;
+int dbC = 90;
+int nr  = 10;
 
 
 ?>
