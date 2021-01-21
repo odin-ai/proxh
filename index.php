@@ -6,7 +6,10 @@ int a = 10;
 int result = a + 10;
 echo $result;
 
-echo "hahahahaha";
+int k = 1;
+int c = 4;
+
+int total = k + c;
 
 
 ?>
